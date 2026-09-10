@@ -1,0 +1,7 @@
+# Ametewee, Francis
+
+# Cleans the enviroment
+rm(list = ls())
+
+# Loads the Tidy package
+library(tidyverse)
